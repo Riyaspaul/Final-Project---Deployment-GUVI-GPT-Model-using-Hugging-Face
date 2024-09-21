@@ -50,3 +50,5 @@ streamlit run app.py
 
 # DEMO
 Here is the link of the demo video
+https://www.linkedin.com/posts/riyasudeen-m-876b3a307_final-project-deployment-guvi-gpt-model-using-hugging-face-activity-7243265545741971456-SHQf?utm_source=share&utm_medium=member_desktop
+
