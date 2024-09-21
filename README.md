@@ -4,6 +4,8 @@ The project is deployed in huggingface,please follow the below link to get insig
 
 # Hugging Face Live APP: 
 
+https://huggingface.co/spaces/Riyaspaul/GUVI_Final
+
 
 Objective: To deploy a pre-trained or Fine tuned GPT model using HUGGING FACE SPACES, making it accessible through a web application built with Streamlit
 
