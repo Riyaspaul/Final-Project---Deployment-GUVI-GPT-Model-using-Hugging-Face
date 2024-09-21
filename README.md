@@ -7,7 +7,9 @@ The project is deployed in huggingface,please follow the below link to get insig
 https://huggingface.co/spaces/Riyaspaul/GUVI_Final
 
 
-Objective: To deploy a pre-trained or Fine tuned GPT model using HUGGING FACE SPACES, making it accessible through a web application built with Streamlit
+# Objective: 
+
+To deploy a pre-trained or Fine tuned GPT model using HUGGING FACE SPACES, making it accessible through a web application built with Streamlit
 
 # Business Use Cases:
 1.Customer Support Automation: • Scenario: Integrate the fine-tuned GPT model with GUVI’s customer support system to automate responses to frequently asked questions, reducing the workload on support staff and improving response times. • Application: The model can handle initial customer inquiries, provide information on courses, pricing, and enrollment procedures, and escalate complex issues to human agents when necessary. 
