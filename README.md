@@ -26,6 +26,7 @@ Objective: To deploy a pre-trained or Fine tuned GPT model using HUGGING FACE SP
 # Installation
 Install following packages
 
+```bash
 import os
 import logging
 import pickle
@@ -33,12 +34,15 @@ import zipfile
 import torch
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 import streamlit as st
+```
 
 # Deployment
 
 To deploy this project run
 
+```bash
 streamlit run app.py
+```
 
 # DEMO
 Here is the link of the demo video
